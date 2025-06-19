@@ -1292,7 +1292,7 @@
     grid-template-columns: repeat(1, auto);
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 574px;
+  min-height: 868px;
 }
 
 .u-section-6 .u-text-1 {
@@ -1322,7 +1322,8 @@
 }
 
 .u-section-6 .u-accordion-pane-1 {
-  min-height: 150px;
+  min-height: 142px;
+  height: auto;
 }
 
 .u-section-6 .u-container-layout-1 {
@@ -1341,7 +1342,8 @@
 }
 
 .u-section-6 .u-accordion-pane-2 {
-  min-height: 150px;
+  min-height: 142px;
+  height: auto;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -1360,7 +1362,8 @@
 }
 
 .u-section-6 .u-accordion-pane-3 {
-  min-height: 150px;
+  min-height: 142px;
+  height: auto;
 }
 
 .u-section-6 .u-container-layout-3 {
@@ -1379,7 +1382,8 @@
 }
 
 .u-section-6 .u-accordion-pane-4 {
-  min-height: 150px;
+  min-height: 142px;
+  height: auto;
 }
 
 .u-section-6 .u-container-layout-4 {
@@ -1398,7 +1402,8 @@
 }
 
 .u-section-6 .u-accordion-pane-5 {
-  min-height: 150px;
+  min-height: 142px;
+  height: auto;
 }
 
 .u-section-6 .u-container-layout-5 {
